@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EAGLE NOTE</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="jenis_kegiatan">
+        <item>Tugas</item>
+        <item>Ujian</item>
+        <item>Test</item>
+
+
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
